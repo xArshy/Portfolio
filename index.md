@@ -7,13 +7,8 @@ Hi,
 # Table of Contents
 1. [2014](#2014)
 2. [2017](#2017)
-3. [Third Example](#third-example)
+3. [2018](#2018)
 4. [Fourth Example](#fourth-example)
-
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com)
 
 # 2014
 I made my first calculator on Visual Basic .NET.
@@ -38,15 +33,19 @@ Late 2017, when I was finally out of highschool, my idea came to fruition.
 A 3DMG, 3 Dimensional Maneuvre Gear from the famous anime, Attack on Titan.<br/>
 Here are a few images to commemorate that time :
 
+<div id="imgs">
+	<img style="display: inline; margin: 0 1px;" title="3DMG2" src="https://thumb.gyazo.com/thumb/1200/_49c044a4e9b91acee98ac3331c60dd5e-png.jpg" alt="" width="500"/>
+	<img style="display: inline; margin: 0 1px;" title="3DMG1" src="https://cdn.discordapp.com/attachments/397432605777068042/399525149914693642/unknown.png" alt="" width="500"/>
+	<img style="display: inline; margin: 0 1px;" title="3DMG3" src="https://user-images.githubusercontent.com/6077173/177381640-b0f56c58-9092-4ca3-b92d-329c445cea42.png" alt="" width="500"/>
+	<img style="display: inline; margin: 0 1px;" title="3DMG-test" src="https://cdn.discordapp.com/attachments/397432605777068042/403244109503922189/RobloxScreenShot20180117_214715684.png" alt="" width="500"/>
+	<img style="display: inline; margin: 0 1px;" title="3DMG-test" src="https://media.discordapp.net/attachments/397432605777068042/406754528415973387/unknown.png?width=886&height=498" alt="" width="500"></img>
+</div>
+<!--video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>-->
 
-
-
-
-
-
-
-
-# Experience
 ## RoEmpires
 ***Lead Programmer & Developer***
 **2021 - Present**\
@@ -86,7 +85,7 @@ A fun little project in which i worked on, These zombies listen out for sounds p
 
 ## Todoroki Ice Skill
 
-<video src="https://user-images.githubusercontent.com/91347920/166917294-42efbb32-da8f-4c3b-8df0-cb7a96f88fc9.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/91347920/166917294-42efbb32-da8f-4c3b-8df0-cb7a96f88fc9.mp4" controls="controls" style="max-width: 730px;"/>
 </video>
 
 An ice skill from the anime "BNHA" from the character "Todoroki". The user shoots spikes from their character, inflicting a stun+damage on the enemy.\
