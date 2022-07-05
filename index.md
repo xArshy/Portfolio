@@ -37,7 +37,7 @@ A 3DMG, 3 Dimensional Maneuvre Gear from the famous anime, **Attack on Titan**.<
 	<img style="display: inline; margin: 0 1px;" title="3DMG2" src="https://thumb.gyazo.com/thumb/1200/_49c044a4e9b91acee98ac3331c60dd5e-png.jpg" alt="" width="500"/>
 	<img style="display: inline; margin: 0 1px;" title="3DMG1" src="https://cdn.discordapp.com/attachments/397432605777068042/399525149914693642/unknown.png" alt="" width="500"/>
 	<img style="display: inline; margin: 0 1px;" title="3DMG3" src="https://user-images.githubusercontent.com/6077173/177381640-b0f56c58-9092-4ca3-b92d-329c445cea42.png" alt="" width="500"/>
-	<img style="display: inline; margin: 0 5px;" title="3DMG-test" src="https://cdn.discordapp.com/attachments/397432605777068042/403244109503922189/RobloxScreenShot20180117_214715684.png" alt="" width="500"/>
+	<img style="display: inline; margin: 0 1px;" title="3DMG-test" src="https://cdn.discordapp.com/attachments/397432605777068042/403244109503922189/RobloxScreenShot20180117_214715684.png" alt="" width="500"/>
 	<img style="display: inline; margin: 0 1px;" title="3DMG-sword" src="https://media.discordapp.net/attachments/397432605777068042/406754528415973387/unknown.png?width=886&height=498" alt="" width="500"/>
 
 <video width="500" controls>
