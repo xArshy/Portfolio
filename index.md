@@ -40,7 +40,7 @@ A 3DMG, 3 Dimensional Maneuvre Gear from the famous anime, **Attack on Titan**.<
 	<img style="display: inline; margin: 0 5px;" title="3DMG-test" src="https://cdn.discordapp.com/attachments/397432605777068042/403244109503922189/RobloxScreenShot20180117_214715684.png" alt="" width="500"/>
 	<img style="display: inline; margin: 0 1px;" title="3DMG-sword" src="https://media.discordapp.net/attachments/397432605777068042/406754528415973387/unknown.png?width=886&height=498" alt="" width="500"/>
 
-<video width="500" height="500" controls>
+<video width="500" controls>
   <source src="https://i.gyazo.com/f71d1ed3c49d29b9d79e7627ab2543db.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
