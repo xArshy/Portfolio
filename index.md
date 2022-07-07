@@ -7,8 +7,8 @@ Hi,
 # Table of Contents
 1. [2014](#2014)
 2. [2017](#2017)
-3. [2018](#2018 ~ 2021)
-4. [2021](#2021 ~ 2022)
+3. [2018](#2018)
+4. [2021](#2021)
 
 # 2014
 I made my first calculator on Visual Basic .NET.
@@ -27,7 +27,7 @@ It never came out, but it was a success for me for I learned how to use Blender.
 I made the hairs, partially.
 A few months later... I started development a new game.
 
-# 2018 ~ 2021
+# 2018
 This time I started with physics manipulation. I learned whatever I could about body physics for a few months.<br/>
 Late 2017, when I was finally out of highschool, my idea came to fruition.<br/>
 A 3DMG, 3 Dimensional Maneuver Gear from the famous anime, **Attack on Titan**.<br/>
@@ -74,6 +74,6 @@ At first nothing was going as planned. After a few weeks of practice, I finally 
 I've lost most of the recordings.<br/>
 **[The final product](https://www.roblox.com/games/1769313303/Titans)**, though it was abandonned.
 
-# 2021 ~ Present
+# 2021
 After the last project, I found some time to make another game.<br/>
 **[Isekai Realm](https://www.roblox.com/games/7061496114/Isekai-Realm)**
