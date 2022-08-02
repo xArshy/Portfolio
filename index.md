@@ -25,7 +25,7 @@ While making meshes, I met a friend who was searching for a developer for his ga
 That is when I noticed how bad I was at vfx creation and manipulation...<br/>
 It never came out, but it was a success for me for I learned how to use Blender.<br/>
 I made the hairs, partially.
-A few months later... I started development a new game.
+A few months later... I started development on a new game.
 
 # 2018
 This time I started with physics manipulation. I learned whatever I could about body physics for a few months.<br/>
