@@ -77,3 +77,6 @@ I made my first calculator on Visual Basic .NET.
 A month after I tried my hand at Lua on the Roblox platform. It was a horrific experience in Roblox back then.
 <br/>**[Here](https://www.roblox.com/games/147625751/DragonBall-To-be-named)** is a place I made on roblox back in 2014.
 <br/>**BE WARNED IT IS HORRIBLE AND FULL OF BUGS.**
+
+# Contact
+Discord : Arshy#8658
