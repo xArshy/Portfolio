@@ -1,7 +1,7 @@
 # Introduction
 Hi, 
- I'm Arshad.<br/>
- I've been fascinated with programming since highschool.<br/>
+ I'm Arshad!<br/>
+ I've been fascinated with programming since high school.<br/>
  This is a collection of my work done throughout the years.
 
 # Table of Contents
@@ -29,7 +29,7 @@ A few months later... I started development on a new game.
 
 # 2018
 This time I started with physics manipulation. I learned whatever I could about body physics for a few months.<br/>
-Late 2017, when I was finally out of highschool, my idea came to fruition.<br/>
+Late 2017, when I was finally out of high school, my idea came to fruition.<br/>
 A 3DMG, 3 Dimensional Maneuver Gear from the famous anime, **Attack on Titan**.<br/>
 <br/>Here are a few images to commemorate that time :
 
