@@ -5,27 +5,14 @@ Hi,
  This is a collection of my work done throughout the years.
 
 # Table of Contents
-1. [2014](#2014)
-2. [2017](#2017)
-3. [2018](#2018)
-4. [2021](#2021)
+1. [2021](#2021)
+2. [2018](#2018)
+3. [2017](#2017)
+4. [2014](#2014)
 
-# 2014
-I made my first calculator on Visual Basic .NET.
-<br/>Unfortunately I can't find the old code anywhere. Here is a **[new]()** one I recently made.
-
-A month after I tried my hand at Lua on the Roblox platform. It was a horrific experience in Roblox back then.
-<br/>**[Here](https://www.roblox.com/games/147625751/DragonBall-To-be-named)** is a place I made on roblox back in 2014.
-<br/>**BE WARNED IT IS HORRIBLE AND FULL OF BUGS.**
-
-# 2017
-The years went by, I learned how to animate though I'm bad at it.<br/>
-I tried Blender, very pleasant experience. I was proud how it turned it out.<br/>
-While making meshes, I met a friend who was searching for a developer for his game, [Dragon Ball Reality's End](https://www.roblox.com/games/1240311814/Dragon-Realitys-End-BACKUP).<br/>
-That is when I noticed how bad I was at vfx creation and manipulation...<br/>
-It never came out, but it was a success for me for I learned how to use Blender.<br/>
-I made the hairs, partially.
-A few months later... I started development on a new game.
+# 2021
+After the last project, I found some time to make another game.<br/>
+**[Isekai Realm](https://www.roblox.com/games/7061496114/Isekai-Realm)**
 
 # 2018
 This time I started with physics manipulation. I learned whatever I could about body physics for a few months.<br/>
@@ -74,6 +61,19 @@ At first nothing was going as planned. After a few weeks of practice, I finally 
 I've lost most of the recordings.<br/>
 **[The final product](https://www.roblox.com/games/1769313303/Titans)**, though it was abandonned.
 
-# 2021
-After the last project, I found some time to make another game.<br/>
-**[Isekai Realm](https://www.roblox.com/games/7061496114/Isekai-Realm)**
+# 2017
+The years went by, I learned how to animate though I'm bad at it.<br/>
+I tried Blender, very pleasant experience. I was proud how it turned it out.<br/>
+While making meshes, I met a friend who was searching for a developer for his game, [Dragon Ball Reality's End](https://www.roblox.com/games/1240311814/Dragon-Realitys-End-BACKUP).<br/>
+That is when I noticed how bad I was at vfx creation and manipulation...<br/>
+It never came out, but it was a success for me for I learned how to use Blender.<br/>
+I made the hairs, partially.
+A few months later... I started development on a new game.
+
+# 2014
+I made my first calculator on Visual Basic .NET.
+<br/>Unfortunately I can't find the old code anywhere. Here is a **[new]()** one I recently made.
+
+A month after I tried my hand at Lua on the Roblox platform. It was a horrific experience in Roblox back then.
+<br/>**[Here](https://www.roblox.com/games/147625751/DragonBall-To-be-named)** is a place I made on roblox back in 2014.
+<br/>**BE WARNED IT IS HORRIBLE AND FULL OF BUGS.**
