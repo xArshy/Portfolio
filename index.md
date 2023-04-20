@@ -17,7 +17,7 @@ After the last project, I found some time to make another game.<br/>
 # 2018
 This time I started with physics manipulation. I learned whatever I could about body physics for a few months.<br/>
 Late 2017, when I was finally out of high school, my idea came to fruition.<br/>
-A 3DMG, 3 Dimensional Maneuver Gear from the famous anime, **Attack on Titan**.<br/>
+A 3DMG, 3 Dimensional Manoeuvre Gear from the famous anime, **Attack on Titan**.<br/>
 <br/>Here are a few images to commemorate that time :
 
 <div id="imgs">
